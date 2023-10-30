@@ -2,7 +2,7 @@
 <h3 align="center">I am a junior Software Tester</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
-<img src="https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif" alt="gif" />
+<img src="https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif" width="200px" alt="gif" />
 - 🔭 I’m a Fresh graduate at Facualty of Computer science, Ain shams university
 - 🌱 I’m currently learning **Software Testing, Quality Assurance**
 
