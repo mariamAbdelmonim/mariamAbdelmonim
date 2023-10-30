@@ -1,31 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam abd elmoneim</h1>
 <h3 align="center">I am a junior Software Tester</h3>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .typing-container {
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="typing-container">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
-    </div>
-</body>
-</html>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
 
 - 🔭 I’m a Fresh graduate at Facualty of Computer science, Ain shams university
 - 🌱 I’m currently learning **Software Testing, Quality Assurance**
