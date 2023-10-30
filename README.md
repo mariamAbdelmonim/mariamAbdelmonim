@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam abd elmoneim</h1>
 <h3 align="center">I am a junior Software Tester</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=21&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=21&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
 
 - 🔭 I’m a Fresh graduate at [https://www.facebook.com/FacultyofComputerAndInformationScience?locale=ar_AR](https://www.facebook.com/FacultyofComputerAndInformationScience?locale=ar_AR)
 
