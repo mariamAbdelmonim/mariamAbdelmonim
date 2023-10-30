@@ -2,7 +2,7 @@
 <h3 align="center">I am a junior Software Tester</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
-<img src="https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif" width="200px" alt="gif" />
+
 - 🔭 I’m a Fresh graduate at Facualty of Computer science, Ain shams university
 - 🌱 I’m currently learning **Software Testing, Quality Assurance**
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me **mariamabdelmoneim011@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
-
+<img src="https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif" width="200px" alt="gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mariam-abd-elmoneim-34b6371bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariam-abd-elmoneim-34b6371bb/" height="30" width="40" /></a>
