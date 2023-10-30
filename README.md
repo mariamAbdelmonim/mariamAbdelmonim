@@ -11,7 +11,18 @@
 - 📫 How to reach me **mariamabdelmoneim011@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
-<img src="https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif" width="200px" alt="gif" />
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Image</title>
+</head>
+<body>
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+        <img src="https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif" width="200px" alt="gif" />
+    </div>
+</body>
+</html>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mariam-abd-elmoneim-34b6371bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariam-abd-elmoneim-34b6371bb/" height="30" width="40" /></a>
