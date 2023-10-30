@@ -3,8 +3,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Software+Engineering;Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
 <img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgomycode.com%2Fwhat-is-the-istqb-certificate%2F&psig=AOvVaw2l1B3X_rjxPGXJAsTGFY16&ust=1698771907130000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCk7tGgnoIDFQAAAAAdAAAAABAp](https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif)](https://gomycode.com/wp-content/uploads/2023/10/Software-code-testing.gif)" alt="gif"/>
-- 🔭 I’m a Fresh graduate at Facualty of  [https://www.facebook.com/FacultyofComputerAndInformationScience?locale=ar_AR](https://www.facebook.com/FacultyofComputerAndInformationScience?locale=ar_AR)
-
+- 🔭 I’m a Fresh graduate at Facualty of  [[https://www.facebook.com/FacultyofComputerAndInformationScience?locale=ar_AR](https://www.facebook.com/FacultyofComputerAndInformationScience?locale=ar_AR)
+](https://www.asu.edu.eg/ar)
 - 🌱 I’m currently learning **Software Testing, Quality Assurance**
 
 - 💬 Ask me about **Manual Testing, Api Testing, Performance Testing, Automation Testing**
