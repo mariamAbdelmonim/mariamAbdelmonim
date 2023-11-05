@@ -20,8 +20,6 @@
 <br><br>
 - :school: I am a ` Fresh Graduate` at [Faculty of Computer science , Ain-Shams University](https://www.asu.edu.eg/ar).
 - 🌱 I’m currently learning **Software Testing** and **Quality Assurance**.
-- 💬 Ask me about **Manual Testing**, **Api Testing**,**Performance Testing**,**Automation Testing**.
-- 👨‍💻 All of my projects are available at [My Resume](https://drive.google.com/file/d/1pFgIWZqbNHKg_fkmXy3QR6D3WEh6GFyo/view?usp=sharing)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, 
 - :nerd_face: Always `learning new things`.
