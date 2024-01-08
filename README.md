@@ -1,7 +1,7 @@
 # Mariam Abd elmoneim elsaid 
 <h1 align="center">Hi , I'm Mariam abd elmoneim  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Fresh+Graduate;Junior+Software+Tester" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=33&pause=1000&color=95F2F7&random=false&width=435&lines=Fresh+Graduate;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 
