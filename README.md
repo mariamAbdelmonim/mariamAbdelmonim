@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&pause=1000&color=95F2F7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Software+Tester;Passionate+about+Automation+%26+API+Testing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&pause=1000&color=95F2F7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Software+Tester;Passionate+about+Software+Testing" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🎓 I hold a Bachelor's degree in Computer Science from [Ain Shams University](https://www.asu.edu.eg/ar).
 - 🔍 I'm passionate about **Software Testing** and **Quality Assurance**.
-- 🧪 I work with both manual and automation testing for **Web, Mobile, and API**.
+- 🧪 I work with both manual and automation testing for **Web, Mobile, API, Performance And AI**.
 - 🧠 Always eager to learn and explore new tools and technologies.
 - 💼 Currently looking for QA internships or full-time opportunities.
 
@@ -69,19 +69,13 @@
 
 ## 🧠 Certifications & Courses
 
-- ✅ ISTQB Foundation Level (Completed Training)  
+- ✅ ISTQB Foundation Level
+- ✅ ISTQB Certified Mobile App Testing (CT-MAT)
+- ✅ ISTQB - Agile Tester (CT-AT)
+- ✅ Masterclass Testing Machine Learning (AI) Models
+- ✅ Rest API Testing (Automation) from Scratch-Rest Assured Java
+- ✅ Learn JMETER from Scratch on Live Apps -Performance Testing
 - ✅ Selenium WebDriver from Foundation to Framework  
-- ✅ Software Testing & QA Practical Courses  
-- ✅ AI & Machine Learning for Beginners (Pictoblox/mBlock)
-
----
-
-## 💼 Projects
-
-- **Automation Testing of ECommerce Website Using Maven, Selenium & Cucumber**  
-- **API Testing of Reqres API Using Postman & Newman**  
-- **Appointment Module Testing with Swagger and JMeter**  
-- **Hotel Management System using Java & OOP Design Patterns**
 
 ---
 
