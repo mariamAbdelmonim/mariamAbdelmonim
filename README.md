@@ -3,7 +3,9 @@
 <h1 align="center">Hi, I'm Mariam Abd Elmoneim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&pause=1000&color=95F2F7&center=true&vCenter=true&width=450&lines=QA+Engineer+%7C+Software+Tester;Passionate+about+Automation+%26+API+Testing" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&pause=1000&color=95F2F7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Software+Tester;Passionate+about+Automation+%26+API+Testing" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center"> 
@@ -53,32 +55,32 @@
 
 ### 🧪 Testing Tools
 
-- Selenium WebDriver (Java)
-- TestNG, JUnit
-- Cucumber (BDD)
-- Postman & Newman (API Testing)
-- JMeter (Performance Testing)
-- Maven
-- Allure Reporting
-- JSON-Simple, OpenCSV, Apache POI
-- Manual Testing for Web & Mobile (Android/iOS)
+- Selenium WebDriver (Java)  
+- TestNG, JUnit  
+- Cucumber (BDD)  
+- Postman & Newman (API Testing)  
+- JMeter (Performance Testing)  
+- Maven  
+- Allure Reporting  
+- JSON-Simple, OpenCSV, Apache POI  
+- Manual Testing for Web & Mobile (Android/iOS)  
 
 ---
 
 ## 🧠 Certifications & Courses
 
-- ✅ ISTQB Foundation Level (Completed Training)
-- ✅ Selenium WebDriver from Foundation to Framework
-- ✅ Software Testing & QA Practical Courses
+- ✅ ISTQB Foundation Level (Completed Training)  
+- ✅ Selenium WebDriver from Foundation to Framework  
+- ✅ Software Testing & QA Practical Courses  
 - ✅ AI & Machine Learning for Beginners (Pictoblox/mBlock)
 
 ---
 
 ## 💼 Projects
 
-- **Automation Testing of ECommerce Website Using Maven, Selenium & Cucumber**
-- **API Testing of Reqres API Using Postman & Newman**
-- **Appointment Module Testing with Swagger and JMeter**
+- **Automation Testing of ECommerce Website Using Maven, Selenium & Cucumber**  
+- **API Testing of Reqres API Using Postman & Newman**  
+- **Appointment Module Testing with Swagger and JMeter**  
 - **Hotel Management System using Java & OOP Design Patterns**
 
 ---
